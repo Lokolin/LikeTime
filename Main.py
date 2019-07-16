@@ -74,7 +74,7 @@ def MakePost(Link):
     return postId
 token="c9cda5680f7f33cac65d923c0b24e11fa9edbb5a70d8f43f4b151c251ee490cdc37b246ed4b93bc861dd6"
 login = 'game_guru@mail.ru'
-password = 'Cxzcnmt777Dima777'
+password = 'Cxzcnmt777Vika777'
 groupId = -170119223
 
 while True:

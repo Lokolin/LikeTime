@@ -73,8 +73,8 @@ def MakePost(Link):
                          attachments=[Link[0]])
     return postId
 token="c9cda5680f7f33cac65d923c0b24e11fa9edbb5a70d8f43f4b151c251ee490cdc37b246ed4b93bc861dd6"
-login = 'game_guru@mail.ru'
-password = 'Cxzcnmt777Vika777'
+login = '+79789801942'
+password = 'adjbADb6bdhoa3dnjn'
 groupId = -170119223
 
 while True:
